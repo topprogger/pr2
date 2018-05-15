@@ -1,0 +1,4 @@
+[data.cpp:14]: (performance) Function parameter 'caption' should be passed by reference.
+[data.cpp:14]: (performance) Function parameter 'date' should be passed by reference.
+[data.cpp:23]: (performance) Function parameter 'caption' should be passed by reference.
+[data.cpp:53]: (performance) Function parameter 'date' should be passed by reference.
